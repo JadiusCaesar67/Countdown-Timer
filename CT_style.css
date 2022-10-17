@@ -1,0 +1,23 @@
+.center{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#countdown{
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+
+#rocket{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+}
